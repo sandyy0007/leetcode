@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/sandyy0007/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sandyy0007/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandyy0007/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sandyy0007/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -78,5 +79,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/sandyy0007/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sandyy0007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/sandyy0007/leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
