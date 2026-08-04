@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/sandyy0007/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sandyy0007/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandyy0007/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2615-sum-of-distances](https://github.com/sandyy0007/leetcode/tree/master/2615-sum-of-distances) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sandyy0007/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sandyy0007/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sandyy0007/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -41,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2615-sum-of-distances](https://github.com/sandyy0007/leetcode/tree/master/2615-sum-of-distances) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sandyy0007/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [2615-sum-of-distances](https://github.com/sandyy0007/leetcode/tree/master/2615-sum-of-distances) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandyy0007/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sandyy0007/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/sandyy0007/leetcode/tree/master/3731-find-missing-elements) |
