@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/sandyy0007/leetcode/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/sandyy0007/leetcode/tree/master/0115-distinct-subsequences) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sandyy0007/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandyy0007/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
