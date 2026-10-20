@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/sandyy0007/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sandyy0007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sandyy0007/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/sandyy0007/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sandyy0007/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/sandyy0007/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sandyy0007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/sandyy0007/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sandyy0007/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sandyy0007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sandyy0007/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/sandyy0007/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/sandyy0007/leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sandyy0007/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sandyy0007/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/sandyy0007/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
