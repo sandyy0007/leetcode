@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sandyy0007/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sandyy0007/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sandyy0007/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/sandyy0007/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3731-find-missing-elements](https://github.com/sandyy0007/leetcode/tree/master/3731-find-missing-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sandyy0007/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sandyy0007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sandyy0007/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sandyy0007/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sandyy0007/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/sandyy0007/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0994-rotting-oranges](https://github.com/sandyy0007/leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/sandyy0007/leetcode/tree/master/1260-shift-2d-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/sandyy0007/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Segment Tree
 |  |
 | ------- |
